@@ -1,0 +1,1 @@
+i open this notepad by command line
